@@ -52,7 +52,7 @@
 - Focused on practical usability and scalable architecture
 - Future scope: AI chatbot, smart product discovery
 
-🔗 https://github.com/yourusername/RetailConnect
+🔗 https://github.com/rajak82001/RetailConnect
 
 ---
 
@@ -71,18 +71,18 @@
 - Focus on clean logic and optimized solutions
 
 ### 🔗 Coding Profiles
-- LeetCode: https://leetcode.com/yourname
+- LeetCode: https://leetcode.com/rajak82001
 - Striver / CodeStudio Profile
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajak82001&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajak82001&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajak82001&theme=tokyo-night)
 
 ---
 
